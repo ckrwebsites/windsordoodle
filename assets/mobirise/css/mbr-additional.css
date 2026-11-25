@@ -7680,8 +7680,8 @@ section.lazy-placeholder:after {
   margin-left: 0.5rem;
 }
 .cid-scLUNvvAXd {
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 80px;
+  padding-bottom: 80px;
   background-color: #ffffff;
 }
 .cid-scLUNvvAXd .row {
@@ -7724,6 +7724,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-scLUNvvAXd H1 {
+  color: #554eb9;
+}
+.cid-scLUNvvAXd H2 {
   color: #554eb9;
 }
 .cid-stPzYfUwVU {
